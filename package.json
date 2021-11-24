@@ -1,0 +1,6 @@
+{
+  "name": "com.aarquiesolutions.singleton",
+  "displayName": "Singleton",
+  "version": "1.0.0",
+  "description": "Singleton base class."
+}
