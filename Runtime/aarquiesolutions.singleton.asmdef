@@ -1,6 +1,6 @@
 {
     "name": "aarquiesolutions.singleton",
-    "rootNamespace": "",
+    "rootNamespace": "AarquieSoltuions.Base.Singleton",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
